@@ -1,2 +1,13 @@
-# Day-02-personal-webpage
-Day 02 HTML practice project
+<h1>Welcome XYZ Pet Adoption!</h1>
+<p>Consider adopting a pet today. We have cats, dogs, rabbits and more.</p>
+
+<h2>See our cats</h2>
+<img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/cats.jpg" alt="Two tabby kittens sleeping together on a couch.">
+
+<h2>Adopt a cat.</h2>
+<a href="/cats">Visit cats page</a>
+
+<h2>Adopt a dog.</h2>
+<a href="/dogs">Visit dogs page</a>
+
+** end of index.html **
